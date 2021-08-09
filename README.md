@@ -1,5 +1,5 @@
 # ar-bersama-ormas
-Lens Studio AR Project with title "Bersama Ormas"
+Lens Studio AR Project for Dicoding Submission
 
 # preview
 
